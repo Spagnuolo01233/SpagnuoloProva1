@@ -1,0 +1,120 @@
+.ColoreSfondo{
+    background-color:rgb(242, 232, 207);
+}
+
+.titoloPagina{
+    font-family: DM sans-serif;
+    font-style: italic;
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(56,102, 65);
+}
+
+.grandezzaIcona{
+    font-size: 50px;
+}
+
+.iconaLinkedin{
+    color:#0077B5;
+    border-bottom: #009246 4px solid;
+}
+
+.iconaLinkedin:hover{
+    color: #009246;
+}
+
+.iconaYoutube{
+    color: #FF0000;
+    border-bottom: #FFFFFF 4px solid;
+}
+
+.iconaYoutube:hover{
+    color: #FFFFFF;
+}
+
+.iconaInstagram{
+    color: #C13584;
+    border-bottom: #CE2B37 4px solid;
+}
+
+.iconaInstagram:hover{
+    color: #CE2B37;
+}
+
+.spaziaturaBottomIcone{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+
+.pulsantiNavbar{
+    font-weight: bold;
+    font-family: DM sans-serif;
+    font-size: 28px;
+    color: rgb(56,102, 65);
+    border-right: rgb(188,71, 73) 1px solid;
+}
+
+.pulsantiNavbarUltimo{
+    font-size: 35px;
+    color: rgb(56,102, 65);
+    margin-top: -7px;
+}
+
+.pulsantiNavbarUltimo:hover{
+    color: #D44638;
+}
+
+.pulsantiNavbar:hover{
+    color: rgb(188, 71, 73);
+}
+
+
+.titoloCard{
+    color: #FDFDFC;
+    font-family: DM Sans;
+    font-weight:bolder;
+    text-align: center;
+}
+
+.coloreCard01{
+    background-color: rgb(188,71, 73);
+}
+
+.coloreCard02{
+    background-color: rgb(56, 102, 65);
+}
+
+.wrapper{
+    margin-top: 120px;
+}
+
+.wrapperPrimo{
+    margin-top: 35px;
+}
+
+.bottone{
+    border-color: rgb(242, 232, 207);
+    background-color: rgb(242, 232, 207) ;
+    color: rgb(56, 102, 65);
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+}
+
+.testop{
+    color: rgb(242, 232, 207);
+    font-family:DM sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 22px;
+}
+
+.footPagina{
+    margin-top: 40px;
+}
