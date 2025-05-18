@@ -40,7 +40,7 @@ Questo progetto è rilasciato sotto licenza MIT. Puoi modificarlo e riutilizzarl
 
 ---
 
-### ✍️ Autore
+### ✍️ Spagnuolo1233
 
 Creato da **Pietro Striano** (aka *Spagnuolo*)
 
