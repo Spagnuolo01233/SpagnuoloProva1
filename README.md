@@ -14,7 +14,7 @@ Questo è un **sito di prova** realizzato in HTML, CSS e JavaScript, pensato com
 
 Puoi visualizzare il sito aprendo `index.html` con qualsiasi browser moderno, oppure visitando la versione online tramite **GitHub Pages**:
 
-🔗 [https://tuo-username.github.io/nome-repo](https://tuo-username.github.io/nome-repo)
+🔗 https://spagnuolo01233.github.io/SpagnuoloProva1/
 
 *(sostituisci con il link reale)*
 
